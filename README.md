@@ -9,7 +9,7 @@
 2. Запуск виртуальной среды
    env\Scripts\activate
 3. Установка зависимостей
-   python -r requirements.txt
+   pip install -r requirements.txt
 4. Запуск тестов
    pytest --html=report.html
 
